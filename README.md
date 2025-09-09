@@ -14,4 +14,4 @@ link:
 Esse é um prejeto web que engloba aprendizado sobre HTML5, CSS3, Bootstrap e JavaScript. O tema escolhido é sobre o  Gato Félix por ser um desenho interessante e com valores de aprendizado de uma época diferente que da atualidade, trazendo um pouco de lembrança ou informação de arte do passado.
 
 ## Aulas iniciais
-link:
+link: https://ryansoliveira.github.io/Felix/
