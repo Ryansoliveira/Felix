@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    border: 0;
+}
+
+.card_main{
+    margin: 25px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border: 20px solid #090909; 
+}
+.organiza{
+    margin: 20px;
+    border: 2px #090909;
+    
+}
